@@ -1,0 +1,15 @@
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\bin\Debug\net7.0\ProjExcePersonal.exe
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\bin\Debug\net7.0\ProjExcePersonal.deps.json
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\bin\Debug\net7.0\ProjExcePersonal.runtimeconfig.json
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\bin\Debug\net7.0\ProjExcePersonal.dll
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\bin\Debug\net7.0\ProjExcePersonal.pdb
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\obj\Debug\net7.0\ProjExcePersonal.csproj.AssemblyReference.cache
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\obj\Debug\net7.0\ProjExcePersonal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\obj\Debug\net7.0\ProjExcePersonal.AssemblyInfoInputs.cache
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\obj\Debug\net7.0\ProjExcePersonal.AssemblyInfo.cs
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\obj\Debug\net7.0\ProjExcePersonal.csproj.CoreCompileInputs.cache
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\obj\Debug\net7.0\ProjExcePersonal.dll
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\obj\Debug\net7.0\refint\ProjExcePersonal.dll
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\obj\Debug\net7.0\ProjExcePersonal.pdb
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\obj\Debug\net7.0\ProjExcePersonal.genruntimeconfig.cache
+F:\Users\raspa\Desktop\PROGRAMAÇÃO - GERAL\PROJETOS\ProjetosCsharp\ProjExcePersonal\ProjExcePersonal\obj\Debug\net7.0\ref\ProjExcePersonal.dll
