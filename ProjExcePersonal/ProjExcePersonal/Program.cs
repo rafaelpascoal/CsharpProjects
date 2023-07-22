@@ -3,6 +3,10 @@ using Exec_Personal_Ex1.Entities.Exceptions;
 using System.Globalization;
 using System;
 
+/* ----------------------------------------------------------------------------------------------------------------------------------------------------------- */
+/* ----------------------------- PROJETO DE TRATAMENTO DE EXCEÇÕES (ESTRUTURA TRY/CATCH, EXCEÇÕES PADRÃO E PERSONALIZADAS ------------------------------------ */
+/* ----------------------------------------------------------------------------------------------------------------------------------------------------------- */
+
 namespace Exec_Personal_Ex1
 {
     internal class Program
